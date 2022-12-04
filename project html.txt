@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>AHARAH : SNAX</title>
+    
+    <style>
+        body{background-color:dark rgb(0, 0, 0) ;
+        }
+        #body1{background-color: white;
+        }
+        table,tr,td{padding: 20px;
+        border: solid 2px rgb(106, 106, 106);
+        border-collapse: collapse;}
+        strong:hover{color: red;
+       }
+       strong{font-family: Arial, Helvetica, sans-serif;}
+       .title h1{
+            color: rgb(103, 104, 62);
+            font-size: large;
+            
+        }
+        .top{
+         overflow: hidden;
+         background-color: rgb(229, 255, 196);
+        }
+        .top a{
+             float: right;
+             display: block;
+             color: black;
+             text-align: center;
+             text-shadow: 0px;
+             padding: 14px;
+             text-decoration: dashed;
+             font-size: 17px; 
+             font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+         }
+         .top a:hover{
+             background-color: aliceblue;
+             background-image: -moz-linear-gradient();
+             color: black;
+         }
+         footer{
+            height: 300px;
+            background-color: rgb(235, 250, 215);}
+         #footer-links {
+            width: 520px;
+            float: right;
+        }
+        #footer-links ul {
+            width: 150px;
+            float: right;
+            margin-left: 20px;
+        }
+        #footer-links ul li {
+            margin: 10px 0;}
+        a {
+                text-decoration: none;
+                color: #444;}
+        .add-to-cart{background-color: red;
+        color: white;
+    border-radius: 10%;
+padding: 10px;}
+    .add-to-cart:hover{background-color: aliceblue;
+    color: black;}
+
+    </style>
+    <meta charset="UTF-8">
+    <meta name="description" content="Free Web tutorials">
+    <meta name="keywords" content="HTML, CSS, 
+   JavaScript">
+    <meta name="author" content="John Doe">
+    <meta name="viewport" content="width=device-width, 
+   initial-scale=1.0">
+    </head>
+    <body>
+        <div class="title>"><center><h1>Aaharah SNACKS</h1></center></div>
+    <div class="top">
+        <input type="text" placeholder="Search">
+        <a href="#Sign UP">Sign UP</a>
+        <a href="#Snax">Snax</a>
+        <a href="#Vege">Veges</a>
+        <a href="#Non-Vege">Non-Vege</a>
+        <a href="#Home">Home</a>
+       </div>
+        <marquee><table><tr><td id="move"><img src="C:\Users\DELL\Desktop\HTML\Du2SLAeWkAAwYi3.jpg" height="300" width="500"><h2> OFFERS TODAY....</h2></td><td id="move"><img src="C:\Users\DELL\Desktop\HTML\Black_Friday_Sale_evolve_1_1024x1024.webp" height="300" width="500"></td><td><img src="C:\Users\DELL\Desktop\HTML\vector-set-discount-coupons-fast-food-desserts-colorful-doodle-style-voucher-templates-snack-promo-offer-cards-70906656.jpg" height="350" width="500"></td></tr></table></marquee></pre>
+        <table>
+            <tr>
+                <td><img src="C:\Users\DELL\Desktop\HTML\lays.jpg" height="180" width="250" id="pic"><BR>
+                    <strong>LAY's Potato Chips India's <br>
+                    Magic Masala Party Pack, 167g Pack</strong><br>
+                    <P style="background-color: YELLOW; width: 3cm;">₹10<sup>49</sup>excl. GST<br></P>
+                    ₹11.01 incl. GST (₹11.01/Item)<br>
+                    <strike> ₹20</strike> (45% off)<BR>
+                    <strong>Get it by 4 days after booking</strong><BR>
+                    <button class="add-to-cart">Add To Cart</button>
+                </td>
+                
+                <td><img src="C:\Users\DELL\Desktop\HTML\ottie.jpg" height="180" width="250"><br>
+                    <strong> Lottie Choco Pie, 450g</strong>
+                    <P style="background-color: YELLOW; width: 4cm;">₹118.<sup>64</sup>excel. GST</P><br>
+                    ₹140 incl. GST (₹31.11/100 g)<br>
+                    ₹180 (22% off)Save 23% on 5+ units<br>
+                    <strong>Get it by Tuesday, December 6</strong><BR>
+                    <button class="add-to-cart">Add To Cart</button>
+                </td>
+                
+                <td><img src="C:\Users\DELL\Desktop\HTML\RTX6CQP6-1024x688.jpg" height="180" width="250"><br>  
+                    <strong> Nestle KITKAT Dessert Delight,<br>
+                    Heavenly Brownie Kubes<br>
+                    Wafer Coated with Dark <br>
+                    chocolate Tablets 50 g Pack<br>
+                    of 12 Units , 600 Gram</strong>
+                   <P style="background-color: YELLOW; width: 4cm;">₹661.02 excl. GST</P>
+                   ₹780.00 (₹130.00 /100 g) incl. GST<BR>
+                   <button class="add-to-cart">Add To Cart</button>
+                </td>
+                
+                <td><img src="C:\Users\DELL\Desktop\HTML\dairy milk.jpg" height="180" width="250"><br>
+                    <strong>Cadbury Dairy Milk Crispy Rabdi<br> 
+                    Madbury Chocolate Bar- 36 g<br>
+                    (Pack of 10)</strong><br>
+                    <P style="background-color: YELLOW; width: 4cm;">₹343.22excl. GST</P>
+                    ₹405 incl. GST (₹112.50/100 g)<br> 
+                    ₹450 (10% off)<br>
+                    <strong>Get it by Wednesday</strong><BR>
+                    <button class="add-to-cart">Add To Cart</button>
+                </td>
+
+                <td><img src="C:\Users\DELL\Desktop\HTML\sna.jpg" height="180" width="250"><br>
+                    <strong>Beyond Snáck Kerala Banana Chips <br>
+                    | 3 Pack Combo, 300g| Original Style,<br>
+                    Peri Peri, Sour Cream Onion & Parsley (3X100g)</strong><br>
+                    <P style="background-color: YELLOW; width: 5cm;">₹204 (₹68/100 g) excl. GST</P>
+                     ₹270 (24% off)<BR>
+                    <strong>Get it by Tuesday, November 29</strong><BR>
+                    <button class="add-to-cart">Add To Cart</button>
+                </td>
+
+            </tr>
+            <tr>
+                <td><img src="C:\Users\DELL\Desktop\HTML\71q9irFB8FL._SX522_PIbundle-12,TopRight,0,0_AA522SH20_.jpg" height="180" width="250">
+                <strong>Slurrp Farm Healthy Snacks for Kids | Mighty Puff Choco Ragi, Cheese & Herbs and Tangy Tomato| Not Fried, No Maida | Snack for School Tiffin and Travel-Friendly | 12 x 20g packs</strong><br>
+                <P style="background-color: YELLOW; width: 4cm;">	₹101.69 excl. GST</P> ₹120.00 (₹50.00 /100 g) incl. GST<br>
+                You Save:	₹120.00 (50%) Inclusive of all taxes<BR>
+                <button class="add-to-cart">Add To Cart</button>
+                </td>
+
+                <td><img src="C:\Users\DELL\Desktop\HTML\71sLYrCuqQL._SX679_PIbundle-2,TopRight,0,0_AA679SH20_.jpg" height="180" width="250"><BR>
+                    <strong>Slurrp Farm High Protein Milk Mix Trial Pack Combo | No Sugar, No Maida | Chocolate Swirl and Berry Blast | 40g X 2</strong>
+                    <P style="background-color: YELLOW; width: 4cm;">₹133.90 excl. GST </P>₹158.00 (₹197.50 /100 g) incl. GST You Save:	₹40.00 (20%) Inclusive of all taxes
+                    <BR> <button class="add-to-cart">Add To Cart</button>
+                </td>
+
+                <TD><img src="C:\Users\DELL\Desktop\HTML\71RT94vPQPL._SX679_.jpg" height="180" width="250"><br>
+                    <strong>Slurrp Farm No Maida Millet Noodles | Not Fried, No MSG | Foxtail Millet Noodles Pack of 3- 192g Each</strong>
+                    <P style="background-color: YELLOW; width: 4cm;">₹173.21 excl. GST</P>₹194.00 (₹33.68 /100 g) incl. GST You Save:	₹193.00 (49%) Inclusive of all taxes 
+                    <BR><button class="add-to-cart">Add To Cart</button>
+                </TD>
+                
+                <td><img src="C:\Users\DELL\Desktop\HTML\617tvTiZLGL._SX679_.jpg" height="180" width="250"><br>
+                    <strong>Chocobakes Choc layered Cakes, 126g</strong><br>
+                    M.R.P.:	₹60.00<br>
+                    <P style="background-color: YELLOW; width: 4cm;">₹55.00 (₹22.00 /100 g)</P>
+                    You Save:	₹5.00 (8%) Inclusive of all taxes<br>
+                    <strong>Get it by 4 days after ordering.</strong><BR>
+                    <button class="add-to-cart">Add To Cart</button>
+                </td>
+                <td><img src="C:\Users\DELL\Desktop\HTML\816R5zPnYYL._SX679_PIbundle-9,TopRight,0,0_AA679SH20_.jpg" height="180" width="250"><br>
+                    <strong>Taali Protein Puffs | 60 gm (Pack of 6) | Try All Flavors Pack | Healthy Roasted Tasty Snacks | 100% Veg., Gluten Free, No Cholesterol, No Trans-Fat</strong>
+                    <P style="background-color: YELLOW; width: 4cm;">₹268.75 excl. GST</P>₹301.00 (₹83.61 /100 g) incl. GST
+                    Fulfilled
+                    You Save:	₹53.00 (15%)
+                    Inclusive of all taxes<BR>
+                    <button class="add-to-cart">Add To Cart</button>
+                </td>
+            </tr>
+            <tr>
+                <td><img src="C:\Users\DELL\Desktop\HTML\814iBcUf1aL._SX679_.jpg" height="180" width="250"><br>
+                    <strong>UNIBIC Cookies, Assorted Cookies, 75 g (Pack of 10) | Biscuits Combo Pack | Choco Chip Cookies | Butter Cookies | Fruit & Nut Cookies | Cashew Cookies</strong>
+                    <P style="background-color: YELLOW; width: 4cm;">₹268.75 excl. GST</P>₹301.00 (₹83.61 /100 g) incl. GST
+                    Fulfilled
+                    You Save:	₹53.00 (15%)
+                    Inclusive of all taxes<BR>
+                    <button class="add-to-cart">Add To Cart</button>
+                </td>
+
+                <td><img src="C:\Users\DELL\Desktop\HTML\71A+xf78meL._SX679_.jpg" height="180" width="250"><br>
+                    <strong>Britannia Bourbon (4+1) 500g On Pack Combo</strong>
+                    <P style="background-color: YELLOW; width: 4cm;">₹268.75 excl. GST</P>₹301.00 (₹83.61 /100 g) incl. GST<br><br>
+                    Fulfilled
+                    A treasure for the lovers of chocolate packed between the surplus of crunch and sprinkled with delicate sugar crystals<BR>
+                    <button class="add-to-cart">Add To Cart</button>
+                </td>
+                <td><img src="C:\Users\DELL\Desktop\HTML\613klr034BL._SX679_.jpg" height="180" width="250"><br>
+                    <strong>Britannia 50-50, Maska Chaska, 105 gram</strong>
+                    <P style="background-color: YELLOW; width: 4cm;">₹28.75 excl. GST</P>₹31.00 (₹83.61 /100 g) incl. GST<br><br>
+                    Fulfilled
+                    Brand:	Britannia Weight:	120 Grams Material Feature:	Vegetaria<BR>
+                    <button class="add-to-cart">Add To Cart</button>
+                </td>
+                <td><img src="C:\Users\DELL\Desktop\HTML\THU.jpg" height="180" width="250"><br>
+                    <strong>Coca-Cola Thums Up Soft Drink PET Bottle, 250 ml (Pack of 8)</strong>
+                    <P style="background-color: YELLOW; width: 4cm;">₹149.75 excl. GST</P>₹170.00 (₹81.61 /100 g) incl. GST<br><br>
+                    
+Brand	Coca-Cola
+Flavour	Cola
+Number of Items	8
+Package Information	Plastic Bottle
+Volume	2000 Millilitres
+Units	250.0 millilitre<BR>
+<button class="add-to-cart">Add To Cart</button>
+                </td>
+                <td><img src="C:\Users\DELL\Desktop\HTML\81zlIBMkYiL._SX679_PIbundle-8,TopRight,0,0_AA679SH20_.jpg" height="180" width="250"><br>
+                    <strong><I>Britannia 50-50, Maska Chaska, 105 gram</I></strong>
+                    <P style="background-color: YELLOW; width: 4cm;">₹28.75 excl. GST</P>₹31.00 (₹83.61 /100 g) incl. GST<br><br>
+                    Fulfilled
+                    Brand:	Britannia Weight:	120 Grams Material Feature:	Vegetaria<BR>
+                    <button class="add-to-cart">Add To Cart</button>
+                </td>            
+            </tr>
+        </table>
+        <h1><b><center>About Us</center></b></h1>
+        <p>We Aahar welcomes to our website. We provide fresh and healthy food materials. In the United States, as of 2017, Aharah sold $2 billion worth of groceries online. It had the largest market share, 18%, followed by Big basket.Aaharah has acquired Whole Foods Market to help accelerate their growth efforts in the online grocery sector. Other companies with substantial market share in the US are Target and Instacart.
+
+            The value of the US online grocery market has grown from $12 billion in 2016 to $26 billion in 2018 and it has plenty of room to grow, given that the size of the overall grocery market was $632 billion in 2018 according to IBISWorld.
+            
+            Online grocery shopping has grown substantially during the COVID-19 pandemic. </p>
+         <br>
+            <center>  
+            <marquee direction="left" behavior="alternate" style="background:rgb(244, 247, 244)">
+            Today's offer-: Get 20% Flat discount on order above ₹1500
+            </marquee>  
+       </div>
+       <footer >
+       <div class="contact">
+             <div id="footer-info">
+            <p>Copyright 2014 CompanyName. All rights reserved.</p>
+            <p><a href="#">Terms of Service</a> I <a href="#">Privacy</a></p>
+                </div>
+            <div id="footer-links">
+            <ul>
+                <li><h5>Company</h5></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Meet The Team</a></li>
+                <li><a href="#">What We Do</a></li>
+                <li><a href="#">Careers</a></li>
+            </ul>
+            </div>
+          </div>
+         </footer>
+        
+        
+        
+    </body>
+
+
+</html>
